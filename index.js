@@ -6,8 +6,8 @@ const axios = require("axios");
 // ==========================================
 // KONFIGURASI UTAMA
 // ==========================================
-const BOT_TOKEN = "8907221273:AAHN_DUd6Liaagh58UdK2ZWB9RICmfzoZBg";
-const OWNER_ID = 7903965113;
+const BOT_TOKEN = "8889453800:AAHv93R-NbgGTzw_W5TjWUITUdJYm9qLwxI";
+const OWNER_ID = 8579539747;
 const USERNAME = "root";
 const ALLOWED_GROUP_ID = "-1004487135957";
 
@@ -24,7 +24,7 @@ const RESELLER_PRICE = 6000;
 const ADMIN_FEE = 100;
 
 // ⚠️ GANTI DENGAN MILIK ANDA
-const TESTIMONI_GROUP_ID = "-1001234567890";
+const TESTIMONI_GROUP_ID = "-1004346966039";
 const RESELLER_GLOBAL_TOKEN = "GANTI_DENGAN_TOKEN_RAILWAY_ANDA";
 
 // ==========================================
